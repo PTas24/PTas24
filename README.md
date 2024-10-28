@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Petra Nemeth
-- 👀 I’m interested in java.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 nemeth.petra.xy@gmail.com
 
 <!---
